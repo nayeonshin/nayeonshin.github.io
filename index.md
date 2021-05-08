@@ -5,6 +5,6 @@ permalink: /
 author_profile: true
 ---
 
-![](C:\Users\devna\Desktop\nayeonshin.github.io\assets\images\nayeon-intro.png)
+![Nayeon's Self-Introduction]({{ site.baseurl }}\assets\images\nayeon-intro.png)
 
 Thank you for visiting my blog. My name is Nayeon Shin. Nayeon is pronounced nah-yeon. I'm from South Korea, and I'm a sophomore at Mount Holyoke College studying Computer Science.

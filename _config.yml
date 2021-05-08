@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "Nayeon Shin"
   avatar           : "/assets/images/nayeon-shin.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Sophomore CS Major @ Mt. Holyoke"
+  bio              : "Sophomore CS Major at Mount Holyoke College. \n This is my journey of being a student developer, writer, and human."
   location         : "South Korea"
   email            :
   links:

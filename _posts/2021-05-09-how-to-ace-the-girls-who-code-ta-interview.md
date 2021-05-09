@@ -131,7 +131,7 @@ Now, this is what I did for my sample teach.
 
 1. Showing the interviewer an image of most popular Internet browsers:
 
-   ![Browsers image]({{ site.baseurl }}/assets/images/posts/2021-05-09-browsers)
+   ![Browsers image]({{ site.baseurl }}/assets/images/posts/2021-05-09-browsers.png)
 
    Explain browsers are things like Safari, Firefox, Chrome, and Edge.
 
@@ -183,11 +183,11 @@ Now, this is what I did for my sample teach.
 
    Lastly, I go over <code>img</code>.
 
-   ![img tag]({{ site.baseurl }}/assets/images/2021-05-09-img-tag.png)
+   ![img tag]({{ site.baseurl }}/assets/images/posts/2021-05-09-img-tag.png)
 
    Explain that <code>img</code> is a self-closing tag. Only write "<img />" first, run the code, and show that we also need additional information for it. What's the additional info called? Yes, "attributes"!
 
-   ![img tag attributes]({{ site.baseurl }}/assets/images/2021-05-09-img-tag-attributes.png)
+   ![img tag attributes]({{ site.baseurl }}/assets/images/posts/2021-05-09-img-tag-attributes.png)
 
    Then finish by introducing attributes for <code>img</code> tags.
 

@@ -1,31 +1,31 @@
 ---
 title: "How to Ace the Girls Who Code TA Interview"
-excerpt: "How I heard my teaching skills are 'phenomenal' from the interviewer"
+excerpt: "Why my interviewer said my teaching skills are 'phenomenal'"
 categories:
   - Career
 tags:
-  - Opportunities
+  - Experience
 ---
 
-Annyeong, everyone. I'm Nayeon. ("Annyeong" means "Hi" in Korean.) If you're a female underclassman in college pursuing Computer Science and looking for a summer internship, [Girls Who Code's Virtual Summer Immersion Program Teaching Assistant](https://girlswhocode.com/programs/summer-immersion-program) is an exciting opportunity. Long story short, I was able to pass every step and get the offer to join GWC for summer 2021 but I had to turn it down for personal reasons. In this post, I'm going to explain how I could get the offer, what my experience with the recruiting process was like, and how I got the interviewer telling me my teaching skills are "phenomenal" in the middle of the interview. Are you curious about how I prepared and what I actually did during the interview? Let's get into it!
+Annyeong, everyone. I'm Nayeon. ("Annyeong" means "Hi" in Korean.) If you're a female underclassman in college pursuing Computer Science and looking for a summer internship, [Girls Who Code's Virtual Summer Immersion Program Teaching Assistant](https://girlswhocode.com/programs/summer-immersion-program) is an exciting opportunity. Long story short, I was able to pass every step and get the offer to join GWC for summer 2021 in March or so but I had to turn it down for personal reasons. In this post, I'm going to explain how I could get the offer, what my experience with the recruiting process was like, and how I got the interviewer telling me my teaching skills are "phenomenal" in the middle of the interview. Are you curious about how I prepared and what I actually did during the interview? Let's get into it!
 
 There are two steps.
 
 # Step 1: Apply online
 
-![Girls Who Code TA job description]({{ site.baseurl }}/assets/images/2021-05-09-girls-who-code-step-1.png)
+![Girls Who Code TA job description]({{ site.baseurl }}/assets/images/posts/2021-05-09-girls-who-code-step-1.png)
 
 On the [Girls Who Code website](https://girlswhocode.com/), you will be able to see where to apply for the program. Read through the description and make sure that you meet all the qualifications and requirements.
 
-![Girls Who Code apply button]({{ site.baseurl }}/assets/images/2021-05-09-girls-who-code-apply.png)
+![Girls Who Code apply button]({{ site.baseurl }}/assets/images/posts/2021-05-09-girls-who-code-apply.png)
 
 Hit the APPLY FOR THIS JOB button.
 
-![Girls Who Code application]({{ site.baseurl }}/assets/images/2021-05-09-girls-who-code-application.png)
+![Girls Who Code application]({{ site.baseurl }}/assets/images/posts/2021-05-09-girls-who-code-application.png)
 
 Then, you'll see the application page. Fill out and answer everything carefully. Make sure you do not have any errors or mistakes in the information you provide.
 
-![Girls Who Code application questions]({{ site.baseurl }}/assets/images/2021-05-09-girls-who-code-application-questions.png)
+![Girls Who Code application questions]({{ site.baseurl }}/assets/images/posts/2021-05-09-girls-who-code-application-questions.png)
 
 On the application, you will see 3 questions you're required to answer.
 

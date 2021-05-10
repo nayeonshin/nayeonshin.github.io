@@ -192,9 +192,10 @@ Some little tips here:
 
 ## Other tips that are good to know
 
-1. Save your resume in a *pdf* format, and it should be named LastName_FirstName_Resume. (without the period at the end)
-2. I prefer Google Docs to some other document editing software because you can make a link to your resume on Google Docs.
-3. Include some links! Maybe on the contact info, you can insert a hyperlink to your LinkedIn profile.
+1. If you are to list out your skills, please, please do NOT write "GitHub." GitHub is not a skill. Git, maybe. But even Git is not a skill that's necessary for a project. In other words, if you want to write that you know how to use "Git," only write "Git," not "GitHub."
+2. Save your resume in a *pdf* format, and it should be named LastName_FirstName_Resume. (without the period at the end)
+3. I prefer Google Docs to some other document editing software because you can make a link to your resume on Google Docs.
+4. Include some links! Maybe on the contact info, you can insert a hyperlink to your LinkedIn profile.
 
 ## Conclusion
 

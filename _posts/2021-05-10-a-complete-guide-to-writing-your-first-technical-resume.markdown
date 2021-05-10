@@ -9,7 +9,7 @@ tags:
 
 ## Motivation
 
-Hello! I'm Nayeon. In this post, I'm going to talk about how to write a resume. I'm a second-year undergraduate student studying Computer Science at a college in the US. So I'm an inexperienced college student but I have edited and even rewritten my resume quite a lot of times based on advice from many people. Before scrolling down, please be informed that I'm not professional at all. I'm just here to share my experience. Also, since I'm a CS student, I do not know well about how a resume for a different field should be structured. This is for people in Computer Science.
+Annyeong! I'm Nayeon. In this post, I'm going to talk about how to write a resume. I'm a second-year undergraduate student studying Computer Science at a college in the US. So I'm an inexperienced college student but I have edited and even rewritten my resume quite a lot of times based on advice from many people. Before scrolling down, please be informed that I'm not professional at all. I'm just here to share my experience. Also, since I'm a CS student, I do not know well about how a resume for a different field should be structured. This is for people in Computer Science.
 
 I vividly remember my very first time writing a resume — I was so frustrated. I didn't even know things such as what would be the appropriate font size and whether I needed to use third person, imperative, or something else for ongoing stuff. For my first actual blog post, I decided to write about how to write a resume.
 

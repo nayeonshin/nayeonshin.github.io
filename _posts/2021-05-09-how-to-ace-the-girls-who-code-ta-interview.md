@@ -2,9 +2,9 @@
 title: "How to Ace the Girls Who Code TA Interview"
 excerpt: "Why my interviewer said my teaching skills are 'phenomenal'"
 categories:
-  - Career
+  - Blog
 tags:
-  - Experience
+  - Career
 ---
 
 Annyeong, everyone. I'm Nayeon. ("Annyeong" means "Hi" in Korean.) If you're a female underclassman in college pursuing Computer Science and looking for a summer internship, [Girls Who Code's Virtual Summer Immersion Program Teaching Assistant](https://girlswhocode.com/programs/summer-immersion-program) is an exciting opportunity. Long story short, I was able to pass every step and get the offer to join GWC for summer 2021 in March or so but I had to turn it down for personal reasons. In this post, I'm going to explain how I could get the offer, what my experience with the recruiting process was like, and how I got the interviewer telling me my teaching skills are "phenomenal" in the middle of the interview. Are you curious about how I prepared and what I actually did during the interview? Let's get into it!

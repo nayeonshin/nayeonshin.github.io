@@ -185,7 +185,7 @@ Now, this is what I did for my sample teach.
 
    ![img tag]({{ site.baseurl }}/assets/images/posts/2021-05-09-img-tag.png)
 
-   Explain that <code>img</code> is a self-closing tag. Only write "<img />" first, run the code, and show that we also need additional information for it. What's the additional info called? Yes, "attributes"!
+   Explain that <code>img</code> is a self-closing tag. Only write the <code>img</code> tag without any attributes first, run the code, and show that we also need additional information for it. What's the additional info called? Yes, "attributes"!
 
    ![img tag attributes]({{ site.baseurl }}/assets/images/posts/2021-05-09-img-tag-attributes.png)
 

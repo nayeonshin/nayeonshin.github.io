@@ -3,6 +3,8 @@ title:  "A Complete Guide to Writing Your First Technical Resume"
 excerpt: "What nobody teaches you officially"
 categories:
   - Career
+tags:
+  - Writing
 ---
 
 ## Motivation

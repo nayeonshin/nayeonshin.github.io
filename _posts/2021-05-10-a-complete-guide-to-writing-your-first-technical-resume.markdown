@@ -67,7 +67,7 @@ Again, the order can be changed depending on your preference. But this is what I
 
 Before diving into specific details of the resume structures, I'd like to point out one important thing: **Do not use the first or second person.** Refrain from using "I," "my," "you," "we," "our," etc. Stick to using articles such as "the."
 
-#### Education
+**Education**
 
 Let's move onto the education section. If you don't have college education, you don't need this part. But if you do, you need it. Make sure you only have your college in the education part. It is recommended to only have post-secondary education information on a resume.
 
@@ -79,7 +79,7 @@ But do you really need to show your GPA even if it's bad? YES. Some people recom
 
 Besides, you can also have some honors & awards and relevant coursework in the education part.
 
-#### Experience
+**Experience**
 
 The things you need to show are:
 
@@ -188,7 +188,7 @@ Some little tips here:
 - The tilda symbol "~" means "about" or "approximately." You use it like this: ~30.
 - Utilize other symbols like > or + (more than) and < (less than).
 
-#### Other tips that are good to know
+## Other tips that are good to know
 
 1. Save your resume in a *pdf* format, and it should be named LastName_FirstName_Resume. (without the period at the end)
 2. I prefer Google Docs to some other document editing software because you can make a link to your resume on Google Docs.

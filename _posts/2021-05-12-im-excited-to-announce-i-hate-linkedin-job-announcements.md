@@ -4,6 +4,7 @@ categories:
   - Writing
 tags:
   - Career
+toc: false
 ---
 
 **This is an opinionated post.**

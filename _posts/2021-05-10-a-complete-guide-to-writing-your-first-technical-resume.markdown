@@ -2,7 +2,7 @@
 title:  "A Complete Guide to Writing Your First Technical Resume"
 excerpt: "What nobody teaches you officially"
 categories:
-  - Blog
+  - Writing
 tags:
   - Career
 ---
@@ -39,7 +39,7 @@ In short, the higher it is placed, the more recent it should be.
 
 #### Font & Margin
 
-The standard font is 12 point Times New Roman. I think you *can* use other fonts if you don't like Times New Roman, but make sure you use an *AVS-friendly* one. If you're running out of space, you can reduce it until 11 point. However, no smaller than that. 10 point is too small and quite hard to read. My current resume's overall font size is 12 point and only my name is in 24 point. Plus, keep the margin at a 0.5 inch on every side.
+The standard font is 12 point Times New Roman. I think you *can* use other fonts if you don't like Times New Roman, but make sure you use an [*ATS-friendly* one](https://www.jobscan.co/blog/best-fonts-resume-ats-recruiter/). If you're running out of space, you can reduce it until 11 point. However, no smaller than that. 10 point is too small and quite hard to read. My current resume's overall font size is 12 point and only my name is in 24 point. Plus, keep the margin at a 0.5 inch on every side.
 
 - *Itacalize* your titles. My personal preference is to italize durations (dates) as well, as it makes my resume look more consistent in terms of style.
 

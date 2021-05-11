@@ -2,7 +2,7 @@
 title: "How to Ace the Girls Who Code TA Interview"
 excerpt: "Why my interviewer said my teaching skills are 'phenomenal'"
 categories:
-  - Blog
+  - Writing
 tags:
   - Career
 ---

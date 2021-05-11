@@ -59,9 +59,9 @@ The vector here can be moved to the origin of the Cartesian coordinate system.
   - But in general, they can be any orthogonal unit vectors
     - Orthogonal: of or involving right angles; at right angles.
 
-  $A = \left[x & y\right]$
+  $A = \left[x  y\right]$
 
-  $A^T = \big(x & y\big)$
+  $A^T = \big(x  y\big)$
 
   $\|\|\vec{a}\|\| = sqrt(x^2 + y^2)$
 
@@ -81,7 +81,7 @@ The vector here can be moved to the origin of the Cartesian coordinate system.
 
 **Dot (scalar) product**
 
-![Right hand rule]({{ site.baseurl }}/assets/images/posts/2021-05-11-dot-product)
+![Dot product]({{ site.baseurl }}/assets/images/posts/2021-05-11-dot-product.png)
 
 *Figure 5. Dot product image from the slides*
 

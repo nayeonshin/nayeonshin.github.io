@@ -8,7 +8,7 @@ author_profile: true
 
 # Hello, World!
 
-Thank you for visiting my blog. My name is Nayeon Shin. Nayeon is pronounced nah-yeon. I'm from South Korea, and I'm a sophomore at Mount Holyoke College studying Computer Science.
+Thank you for visiting my blog. My name is Nayeon Shin. Nayeon is pronounced nah-yeon. I'm from South Korea, and I'm a sophomore at Mount Holyoke College studying Computer Science. I just started studying Computer Graphics on my own.
 
 This blog is my journal of being a student developer, writer, and human. I often think that it would have been great if I kept writing a journal till now after my elementary school teachers forced me to do as homework. Now that I have a new life goal to become some kind of a developer, I realized it's the right time for me to start writing about my life again.
 

@@ -6,7 +6,7 @@ tags:
   - Career
 ---
 
-### This is an opinionated post.
+**This is an opinionated post.**
 
 It was when I was on my way to take a Haegeum class, just like any other Thursday afternoons. I was scrolling through my LinkedIn feed and saw a post. Someone was excited to announce they got selected for a scholar program as one of the few people out of an exact number of all applicants. I was surprised to see they explicitly pointed out the precise numbers of the total applicants and those who got in. If you subtract the number of accepted people from that of total applicants, you could calculate the rejected people. I was like, what?
 

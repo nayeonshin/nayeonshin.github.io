@@ -1,6 +1,6 @@
 ---
 title:  "[UC San DiegoX CSE167x] Computer Graphics Lecture 2 Notes"
-excerpt: "Brushing off basic Math for CG"
+excerpt: "Brushing up on basic Math for CG"
 categories:
   - Study
 tags:

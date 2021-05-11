@@ -14,7 +14,22 @@ use_math: true
 
 # My notes
 
-- Linear algebra
-  - Vectors
-    - This formula $f(x) = x^2$ is an example.
-  - Matrices
+## Linear algebra
+
+### Vectors
+
+![image-20210511183133013]({{ site.baseurl }}/assets/images/posts/2021-05-11-vector.png)
+
+*Figure 1. Vector image from the slides*
+
+Usually written as $\vec{a}$ or in bold
+
+Magnitude written as $\|\vec{a}\|$
+
+- Length and direction. Absolute position not important (translated vectors are the same)
+- Use to store offsets, displacements, locations
+  - But strictly speaking, positions are not vectors and cannot be added: a location implicitly involves an origin, while an offset does not
+  - Nevertheless, very convenient to also represent positions as vectors and to multiply them as matrices to do various transformations
+
+### Matrices
+

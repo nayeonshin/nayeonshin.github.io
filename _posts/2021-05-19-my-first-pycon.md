@@ -33,6 +33,14 @@ When the tutorial was about to end, I reminded the speaker of it and recommended
 
 As a broke college student, paying $50 just to buy the ticket was enough. But it turned out that PyCon attendees need to pre-register for the tutorials they want to see and pay 50 more dollars for each. 🤯 Someone I talked to on Lounge told me that at in-person PyCon, it's drinks and beverages that are super expensive. I really wanted to attend a tutorial about how to write a good documentation but I couldn't. Maybe when I get a full-time job, I'll be willing to pay more $$$ for such stuff. So what I mostly did at PyCon was to talk to people in networking booths and lounges. But because of the time difference, I always needed to stay up really late to be active at PyCon.
 
+# Finding Snake Eyes Contest
+
+There were a few contests at PyCon including Finding Snake Eyes. That's the only one I participated in. At some sponsor companies' booths, snake eyes were hidden by the companies' people. I was only able to find the ones at Microsoft, Bloomberg, Google, Blackfire.io, Facebook/Instagram but missed out on the rest of them. It was fun! I wonder if there was a winner and if there was, if they got some sort of prize.
+
+# Sprints
+
+I got to know something called sprints, where I could contribute to open source in a team. But since I was already so exhausted (Remember I was attending PyCon US from South Korea!) I decided to get some rest instead of going there.
+
 # Interesting things I learned
 
 I met a lot of people from a lot of companies including Python Software Foundation (PSF), LinkedIn, Red Hat, Bloomberg, Netflix, Microsoft, and Google. I also talked to people who teach Python professionally, just like Trey (the speaker at the tutorial I volunteered for). It was so interesting to hear about what kind of work people are doing. Some memorable things I learned through many conversations are:

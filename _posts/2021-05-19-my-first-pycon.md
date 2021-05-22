@@ -4,8 +4,8 @@ excerpt: "And my first time attending a conference"
 categories:
   - Writing
 tags:
-  - Reflections
   - Events
+  - Reflections
 ---
 
 I was initially going to attend PyCon Korea first. But then [the current PyCon Korea website](https://pycon.kr/2020/) hasn't even been updated to 2021. So I thought, maybe I should attend PyCon in other countries. Then I got to know that there's [PyCon US](https://us.pycon.org/2021/) happening from May 12 to 18. What's more, it's 100% virtual and the ticket was quite affordable (50 USD for a student)! I bought the ticket and even signed up for a tutorial host, which was one of the volunteer roles.

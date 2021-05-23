@@ -10,7 +10,7 @@ author_profile: true
 
 Thank you for visiting my blog. My name is Nayeon Shin. Nayeon is pronounced nah-yeon. I'm from South Korea, and I'm a sophomore at Mount Holyoke College studying Computer Science. I'm currently trying to explore as many different areas in CS as possible and find out what I'd like to do in the future.
 
-This blog is my journal of being a student developer, writer, and human. I often think that it would have been great if I kept writing a journal till now after my elementary school teachers forced me to do as homework. Now that I have a new life goal to become some kind of a developer, I realized it's the right time for me to start writing about my life again.
+This blog is my journal of being a student developer (more like an aspiring developer), writer, and human. I often think that it would have been great if I kept writing a journal till now after my elementary school teachers forced me to do as homework. Now that I have a new life goal to become some kind of a developer, I realized it's the right time for me to start writing about my life again.
 
 The world is full of smart, outstanding, creative, and talented people. If I look around, I notice that even the people sitting next to me in the classroom look so much smarter and more talented than me. It sometimes (maybe not "sometimes" at times) makes me wonder "Will I ever be able to reach that level in my life?" in self-doubt and regret that I didn't work harder in the past. Every day, I question if I'm doing well, if what I'm doing is right, and if I'm not hardworking enough.
 

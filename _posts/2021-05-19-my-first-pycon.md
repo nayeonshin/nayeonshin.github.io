@@ -5,6 +5,7 @@ categories:
   - Writing
 tags:
   - Events
+  - Python
   - Reflections
 ---
 

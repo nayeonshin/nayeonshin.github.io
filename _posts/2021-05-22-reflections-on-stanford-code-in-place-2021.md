@@ -1,15 +1,16 @@
 ---
 title:  "Reflections on Stanford Code in Place 2021"
-excerpt: "I never felt the weight a teacher carries before"
+excerpt: "I never felt the weight a teacher carries before. Teaching is not just transferring knowledge."
 categories:
   - Writing
 tags:
+  - Python
   - Reflections
 ---
 
 # Summary
 
-No summary. My experience with this program is too good to be summarized with a few words, so please read this post till the end. 😉 This is probably going to be a long post.
+No summary. My experience with this program is too good to be summarized with a few words, so please read this post till the end. 😉 This is probably going to be a long post. At the end, I've written down my honest thoughts and feelings about my experience. Spoiler: Being a Section Leader was really, really difficult or me.
 
 # What's Stanford Code in Place?
 
@@ -25,9 +26,9 @@ This is the first FAQ on the CiP website. According to the CiP team:
 
 This is very true, but if I get asked the same question, I'd answer a little differently. Other than the fact that it's fun, helps you get a remote job, and makes you think deeply, let me answer this by bringing a [question asked on Naver Jisik-iN](https://kin.naver.com/qna/detail.nhn?d1id=13&dirId=130103&docId=347082562&qb=OTA4&enc=utf8&section=kin.qna&rank=711&search_sort=0&spq=0), which is like the Korean version of Quora:
 
-(Translated) Q. Please list the factors of the numbers from 1 to 1000.
+> (Translated) Q. Please list the factors of the numbers from 1 to 1000.
 
-(Translated) A. Factor of 1: 01, Factors of 2: 01, 2, ..., Factors of 1000: 01, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 125, 200, 250, 500, 1000
+> (Translated) A. Factor of 1: 01, Factors of 2: 01, 2, ..., Factors of 1000: 01, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 125, 200, 250, 500, 1000
 
 If you don't know how to code, you'll need to pull up a calculator and try to find and write down all the numbers. It'll take forever for you to complete the task. So, what can simplify this tedious process?
 
@@ -37,41 +38,41 @@ All Areas
 
 AI
 
-► Artificial intelligence
-► Computer vision
-► Machine learning & data mining
-► Natural language processing
-► The Web & information retrieval
+- Artificial intelligence
+- Computer vision
+- Machine learning & data mining
+- Natural language processing
+- The Web & information retrieval
 
 Systems
 
-► Computer architecture	
-► Computer networks	
-► Computer security	
-► Databases	
-► Design automation	
-► Embedded & real-time systems  	
-► High-performance computing	
-► Mobile computing	
-► Measurement & perf. analysis 	
-► Operating systems	
-► Programming languages	
-► Software engineering	
+- Computer architecture	
+- Computer networks	
+- Computer security	
+- Databases	
+- Design automation	
+- Embedded & real-time systems  	
+- High-performance computing	
+- Mobile computing	
+- Measurement & perf. analysis 	
+- Operating systems	
+- Programming languages	
+- Software engineering	
 
 Theory
 
-► Algorithms & complexity	
-► Cryptography	
-► Logic & verification	
+- Algorithms & complexity	
+- Cryptography	
+- Logic & verification	
 
 Interdisciplinary Areas
 
-► Comp. bio & bioinformatics
-► Computer graphics
-► Economics & computation
-► Human-computer interaction
-► Robotics
-► Visualization
+- Comp. bio & bioinformatics
+- Computer graphics
+- Economics & computation
+- Human-computer interaction
+- Robotics
+- Visualization
 
 Don't know what all of these are about? Neither do I, actually. But I just wanted to show that **there are just so many things in the world you can do with the ✨ magic ✨ of coding**. Even if none of these sound interesting as of now, why don't you just try learning coding? You'll have something to show off to your friends or family. If this sounds too childish (I think it does), the program is free, after all. It's an incredible learning opportunity you don't want to miss out on.
 
@@ -93,6 +94,8 @@ I read through the program information and filled out "Section Leader Applicatio
 
 > What programming experience do you have? Also mention if you have programmed in Python - it's fine if you haven't!
 
+Just write who you are. Here I mentioned that I wanted to become a TA at my school.
+
 ### 2. Debugging a piece of code
 
 I'm going to include my answers here as well, but if it becomes problematic, please leave a comment on this post. I'll get rid of this part.
@@ -101,23 +104,24 @@ I'm going to include my answers here as well, but if it becomes problematic, ple
 >
 > ```python
 > def main():
->     dictionary = {}
->     dictionary["learning"] = "awesome"
->     dictionary["coding"] = "fun"
->     # ... Fill with more data
->     remove_keys_containing_string(dictionary, "learn")
+>  dictionary = {}
+>  dictionary["learning"] = "awesome"
+>  dictionary["coding"] = "fun"
+>  # ... Fill with more data
+>  remove_keys_containing_string(dictionary, "learn")
 > """
-> This Python function takes in a dict and a string and removes all keys containing that string from the dict
+> This Python function takes in a dict and a string
+> and removes all keys containing that string from the dict
 > """
 > def remove_keys_containing_string(dictionary, remove):
->     toRemove = None
->     for key in dictionary:
->         for i in range(len(key)):
->             if key[i:i+1] == remove:
->                 toRemove.add(key)
->     if toRemove != None:  
->         for key in toRemove:
->             del dictionary[key]
+>  toRemove = None
+>  for key in dictionary:
+>      for i in range(len(key)):
+>          if key[i:i+1] == remove:
+>              toRemove.add(key)
+>  if toRemove != None:  
+>      for key in toRemove:
+>          del dictionary[key]
 > ```
 
 This is the code I needed to debug. But I think the docstring should be inside <code>remove_keys_containing_string</code> function, though.
@@ -138,26 +142,28 @@ This is the code I needed to debug. But I think the docstring should be inside <
 >
 > (1) Parameters: <code>dictionary = {'learning': 'awesome', 'coding': 'fun'}</code>, <code>remove = "learn"</code>
 >
-> (2) We iterate through for each key in dictionary, so the first key is '<code>learning</code>'. Its length is <code>8</code>. So i starts at <code>i = 0</code> and ends at <code>i = 8</code>. But range function doesn't contain the the right endpoint. So we execute the conditional statement 8 times, starting at <code>i = 0</code>. When <code>i = 0</code>, <code>i + 1 = 1</code>. We use slicing <code>key[i:i+1]</code>. But it only gets each character in the key and compare it to remove, which is not what we want to do.
+> (2) We iterate through for each key in dictionary, so the first key is <code>learning</code>. Its length is <code>8</code>. So i starts at <code>i = 0</code> and ends at <code>i = 8</code>. But range function doesn't contain the the right endpoint. So we execute the conditional statement 8 times, starting at <code>i = 0</code>. When <code>i = 0</code>, <code>i + 1 = 1</code>. We use slicing <code>key[i:i+1]</code>. But it only gets each character in the key and compare it to remove, which is not what we want to do.
 >
 > 2)
 >
 > <code>toRemove = None</code>... <code>toRemove.add(key)</code>
 >
-> The type of <code>toRemove</code> is <code>NoneType</code>. A <code>NoneType</code> object doesn't have the attribute '<code>add</code>'. The object that has it is [set](https://docs.python.org/3/tutorial/datastructures.html#sets).
+> The type of <code>toRemove</code> is <code>NoneType</code>. A <code>NoneType</code> object doesn't have the attribute <code>add</code>. The object that has it is [set](https://docs.python.org/3/tutorial/datastructures.html#sets).
 >
 > My solution (fixed code that works as expected):
 >
 > ```python
 > def remove_keys_containing_string(dictionary, remove):
->     toRemove = set() # initialize an empty set
->     for key in dictionary:
->         if remove in key: # if the string key has remove as its substring
->             toRemove.add(key)
->     if toRemove != None:
->         for item in toRemove:
->             # changed "key" to "item" b/c toRemove is a set (not required)
->             del dictionary[item]
+>  toRemove = set() # initialize an empty set
+>  for key in dictionary:
+>      if remove in key:
+>         # if the string key has remove as its substring
+>          toRemove.add(key)
+>  if toRemove != None:
+>      for item in toRemove:
+>          # changed "key" to "item"
+>          # b/c toRemove is a set (not required)
+>          del dictionary[item]
 > ```
 
 I probably didn't need to fix all the errors and write new code without them. But I still wanted to do so to show my interest in Code in Place.
@@ -171,17 +177,23 @@ I probably didn't need to fix all the errors and write new code without them. Bu
 ### 3. Demo video of my teaching
 
 > Record and upload a 5-minute demo of your teaching.
-> Upload a 5-minute video of yourself teaching the Mars Weight problem. See https://codeinplace.stanford.edu/teach/instructions for information on preparing the video.
+> Upload a 5-minute video of yourself teaching the Mars Weight problem. See [https://codeinplace.stanford.edu/teach/instructions](https://codeinplace.stanford.edu/teach/instructions) for information on preparing the video.
 
 I will not upload the video I submitted here. But I managed to go through the concepts within five minutes, which was harder than I thought.
 
 You'll hear back in about a week or so. If you get in, you'll get an [ACTION REQUIRED] email. Read the email carefully and follow the onboarding process before the deadline.
+
+**For readers of this post who didn't get in:**
+
+Honestly, I have no idea how I got in. I think the referral played a big role. Don't worry, it really is okay even if you didn't get in. I promise. I have been rejected from sooooo many other opportunities, including some TA programs. Don't let it get you down. I didn't (and I don't) let rejections discourage me, although they hurt. You'll have another chance to join CiP (if COVID-19 still exists even after 2021) and there are lots of other free coding-based volunteer programs. :)
 
 ## Week 0
 
 ### SL Welcome Session
 
 SL stands for Section Leader. ~~I think a lot of people in the US love to shorten things way too much.~~ It was a 30-minute Section Leader welcome session to get the course overview and my role as a section leader. Attendance was not mandatory, but Section Leaders who weren't able to attend the synchronous sessions needed to watch the recorded version. The professors who initiated the program all looked and sounded so excited in the meeting. I love seeing enthusiastic people.
+
+### Small group training workshops
 
 [To be continued]
 
@@ -195,7 +207,13 @@ SL stands for Section Leader. ~~I think a lot of people in the US love to shorte
 
 ## Week 5
 
+## T-shirt contest
+
+
+
 # Thoughts after the program
+
+
 
 # Conclusion
 

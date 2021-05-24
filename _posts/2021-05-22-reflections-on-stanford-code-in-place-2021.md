@@ -340,6 +340,8 @@ I was going to name this part "What I could have done better," but that kind of 
   I just quickly read an article ["15 Actionable Strategies for Increasing Student Motivation and Engagement"](https://www.gettingsmart.com/2016/08/15-actionable-strategies-for-increasing-student-motivation-and-engagement/) and here are my thoughts.
 
   When I made some mistakes, I think that taught students that I'm also human, and that I make mistakes. That was when they were most active in terms of participation. Building an authentic relationship will let students feel comfortable talking to the instructor and escalating issues. I also learned that personalized education is important because everybody learns in a different way.
+  
+  I also failed to conduct my own survey on Google Forms, just because students couldn't open the form I set up for some reason. I should get to know how to properly use Google Forms.
 
 # Conclusion
 

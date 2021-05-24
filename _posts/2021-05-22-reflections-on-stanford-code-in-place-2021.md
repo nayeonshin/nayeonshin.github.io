@@ -1,6 +1,6 @@
 ---
 title:  "Reflections on Stanford Code in Place 2021"
-excerpt: "I never felt the weight a teacher carries before. Teaching is not just transferring knowledge."
+excerpt: "I never felt the weight a teacher carries before. Teaching is not just a transfer of knowledge."
 categories:
   - Writing
 tags:
@@ -10,13 +10,13 @@ tags:
 
 # Summary
 
-No summary. My experience with this program is too good to be summarized with a few words, so please read this post till the end. 😉 This is probably going to be a long post. At the end, I've written down my honest thoughts and feelings about my experience. Spoiler: Being a Section Leader was really, really difficult or me.
+No summary. My experience with this program is too good to be summarized with a few words, so please read this post till the end. 😉 This is probably going to be a long post. I'm going to write down as many things as possible, from how I got into the program and what I think about the program. At the end, I've included my honest thoughts and feelings about my experience. Spoiler: Being a Section Leader was really, really difficult or me.
 
 # What's Stanford Code in Place?
 
 > A free, human-centric, intro-to-coding course in the time of COVID-19
 
-[Stanford Code in Place](https://codeinplace.stanford.edu/) (often abbreviated as "CiP" or "CIP") is a free, 5-week-long coding program hosted by Stanford University, which was created in response to the COVID-19 lockdown. It is the first half of CS106A: Programming Methodology, which is a introductory level Computer Science course at Stanford taken by hundreds of Stanford students every year. Anyone from any countries who's 18 years old or older can join the program, either as a Section Leader (if you have a programming background) or student. By "a programming background," I mean that if you know the fundamental concepts in Computer Science , such as variables, if/else statements, loops (If you have them, you can pick up Python quickly even if you haven't used it before), you're eligible to become a Section Leader. More information is on their website (Please click on the "Stanford Code in Place" hyperlink in the beginning of this paragraph).
+[Stanford Code in Place](https://codeinplace.stanford.edu/) (often abbreviated as "CiP" or "CIP") is a free, 5-week-long coding program hosted by Stanford University, which was created in response to the COVID-19 lockdown. It is the first half of CS106A: Programming Methodology, which is a introductory level Computer Science course at Stanford taken by hundreds of Stanford students every year. Anyone from any countries who's 18 years old or older can join the program, either as a Section Leader (if you have a programming background) or student. By "a programming background," I mean that if you know the fundamental concepts in Computer Science , such as variables, if/else statements, loops (If you have them, you can pick up Python quickly even if you haven't used it before), you're eligible to become a Section Leader. There were roughly about 1000 Section Leaders and 10000 students this year, I think. (I'm not sure.) More information is on their website (Please click on the "Stanford Code in Place" hyperlink in the beginning of this paragraph).
 
 # Why learn to code?
 
@@ -84,7 +84,7 @@ I really wanted to become a Computer Science teaching assistant at my school. Bu
 
 ## How I got in
 
-I read through the program information and filled out "Section Leader Application for Code in Place 2021" on Google Forms. The questions on the survey were:
+I read through the program description and filled out "Section Leader Application for Code in Place 2021" on Google Forms. The survey consisted of:
 
 ### 1. Tell-me-about-yourself questions
 
@@ -191,29 +191,140 @@ Honestly, I have no idea how I got in. I think the referral played a big role. D
 
 ### SL Welcome Session
 
-SL stands for Section Leader. ~~I think a lot of people in the US love to shorten things way too much.~~ It was a 30-minute Section Leader welcome session to get the course overview and my role as a section leader. Attendance was not mandatory, but Section Leaders who weren't able to attend the synchronous sessions needed to watch the recorded version. The professors who initiated the program all looked and sounded so excited in the meeting. I love seeing enthusiastic people.
+SL stands for Section Leader. ~~I think a lot of people in the US love to shorten things way too much.~~ It was a 30-minute Section Leader welcome session to get the course overview and my role as a section leader. Attendance was not mandatory, but Section Leaders who weren't able to attend the synchronous sessions needed to watch the recorded version. I could make it, although it started at 6 am my time. The professors who initiated the program all looked and sounded so excited in the meeting. I love seeing enthusiastic people.
 
-### Small group training workshops
+### First small group training workshop
 
-[To be continued]
+I was assigned to a small teacher training team of around 15 people. The platform being used for all meetings (except for the Welcome Session) at CiP is called "ohyay." (Edit: I just talked to Julie (one of the professors) at 3 am my time and they told me "ohyay" means something like "Listen up!" in Spanish? or some language. I thought it was just "oh!" + "yay!" that had no special meaning.) There were two small group training workshops in total, which happened on Sundays my time. (You can choose when to meet according to your availability prior to the start of the program.)
+
+I had no idea what was going on in the first workshop. I had two amazing teacher mentors. People in the meeting constantly mentioned words like "Karel" and "beeper," and I had no clue what they were talking about. It was because I didn't know I'd need to read some Karel documentations before the first training workshop. The teacher mentors pretended that we (Section Leaders) were students and led a session, and then we gave them some feedback. This way, we were able to put ourselves in the students' shoes and think about what teaching methods worked well and what didn't. Another workshop happened after the first section.
+
+![Karel](https://web.stanford.edu/class/archive/cs/cs106a/cs106a.1208/img/assn/karel.png)
+
+*Figure 1. Karel*
+
+What is Karel?
+
+> In the 1970s, a Stanford graduate student named Rich Pattis decided that it would be easier to teach the fundamentals of programming if students could somehow learn the basic ideas in a simple environment free from the complexities that characterize most programming languages.
+
+It's the character you see in the first week of CiP. You get assignments to move Karel and put beepers along the way.
+
+![Karel and a beeper](https://compedu.stanford.edu/karel-reader/docs/images/ch1/world.png)
+
+*Figure 2. Karel and a beeper*
 
 ## Week 1
 
+### First section
+
+The day before my first section, I stayed up all night reading through a lot of documents to familiarize myself with class materials and how CiP sections work. I think about 8 students came to my first section. I was quite nervous and didn't do well in my first section. I was mistaken about what <code>front_is_clear()</code> does and wasted some minutes figuring it out.
+
+Topics covered:
+
+- Welcome and functions
+- Control flows
+
+## Second small group training workshop
+
+We were asked to bring a pen and paper. I met with my small group on ohyay and we had a moment to reflect on each of our first sections. We were divided into several breakout rooms and shared our thoughts. 
+
+> 1) Who were the people in your section?
+>
+> My answer: Some of them seemed to be college students, and they come from different countries. That's all I knew.
+
+> 2) What are the general demographics in your section? (age, location, gender, ethnicity, prior experience, languages):
+>
+> My answer: They are surely 18 or older. My sectionees are from Mexico, Japan, India, Malaysia, etc. Some people looked like they had already learned coding. Not all of us (myself included) speak English as the first language. (And I didn't comment on their genders and ethnicities because I didn't want to make assumptions.)
+
+> 3) How was the level of student engagement?
+>
+> My answer: It was quite low, although I always tried to encourage them to participate. They looked quite shy and didn't really speak up. So, I asked them to use the emojis and reactions in the left bottom on the ohyay screen.
+
+> 4) Who was participating?
+>
+> My answer: There were two students who were the most active. Others didn't even turn on their cameras, as far as I remember.
+
+> 5) How can you replicate the strategy used to introduce that moment in the remaining sections?
+>
+> My answer: Student engagement is key. I should first introduce them to make mistakes and errors because it will let us think about what errors we have, what cause them, and how we can fix them.
+
+> 6) What was the biggest challenge?
+>
+> My answer: It was inviting students to actively participate.
+
+> 7) What can you do to transform this challenge for your next section?
+>
+> My answer: I should probably speak less. Maybe instead of me going over the class materials covered each week, I should ask students to share what they have learned.
+
+My answers were not good. But still, answering the questions helped me redirect my approach to teaching.
+
+Then, the teacher mentors presented possible situations with slides that could happen during a section and gave us a chance to think about how we would react in each circumstance. We went to breakout rooms again and wrote our answers in a group on the shared slides. One thing I remember is (I don't remember it word by word, though):
+
+> Why is it not a good policy that students should promptly notify the section leader if they feel offended by the leader's remarks or behavior.
+>
+> Our answer (I answered this with the members in my breakout room):
+>
+> The student who's offended might not feel comfortable sharing what's offensive to them in front of other classmates. Also, if they just directly tell the leader, it can interrupt the entire section and result in a waste of time.
+
 ## Week 2
 
-## Week 3
+I saw a sharp decrease in the number of sectionees who attended my section (lol). It's probably because I did bad in my first section. But this time, I managed to go over everything and finish the section assignments on time. Week 2 is when students transition to Python from Karel. Starting from this week, I got a 5/5 in my student feedback. When you finish each section, students leave feedback and give a rating out of five.
 
-## Week 4
+Topics covered:
+
+- Karel decomposition
+- Python variables
+- Python expressions
+
+A sectionee made a private post that they were having a hard time transitioning into Python. That made me really worried. I also struggled a lot when I just started learning how to code. I just told them it'd be fine, but I wish I could have done something more.
+
+## Weeks 3 & 4
+
+I don't remember any particular things that happened during weeks 3 and 4.
+
+Topics covered in week 3:
+
+- Control flow revisited
+- Functions revisited
+- More parameters
+
+Topics covered in week 4:
+
+- Images
+- Lists
+
+Oh, it was surprising to see that they learn image processing in Code in Place and CS106A at Stanford (Remember that CS106A is the CS course students take at first). That's what I learned in an upper level CS course. So, I showed the week 4's section participants the image processing assignment I did. I briefly told them how we can implement the blur filter.
 
 ## Week 5
 
+This was the last section. Two sectionees appeared and we first shared what our CiP experience has been. They said it's not easy but fun. I shared that I came to the conclusion that I don't want to pursue teaching as my profession thanks to Code in Place (Not because my experience was bad!).
+
+Topics covered:
+
+- Strings
+- Dictionaries
+- Files
+
+Then we said goodbye. It was a good experience.
+
 ## T-shirt contest
 
+I also submitted something to the T-shirt contest, which couldn't even make it to the top 10. 🤪 But it was fun, which is all that matters in Code in Place.
 
+![My t-shirt design]({{ site.baseurl }}/assets/images/posts/2021-05-22-my-t-shirt-design.jpg)
+
+*Figure 3. My t-shirt design*
+
+Yeah I have to admit it's too simple to be a good t-shirt design. I'm not a very creative person but at least I tried to be creative. You can see I drew a butterfly using the text "code."
 
 # Thoughts after the program
 
+Woah, finally I've reached this part. As I mentioned in the beginning of this post, being a Section Leader was a lot more difficult than I expected. I applied thinking teaching would be a very easy task, but I was completely wrong. The nights before each of my sections, I just could not go to sleep. I always stayed up till my section started. I wasn't even doing anything productive other than reading what's new on the Ed platform (where people in CiP make posts and comments). I was scared.
 
+I was scared that my section would be a waste of time for my sectionees. A lot of students weren't coming to my section as time progressed. Am I not doing well? Am I not good of a Section Leader? Am I wasting their time? I felt really bad for being my sectionees' Section Leader. If you know me well, you probably know that I always strive to put as much effort as possible into the things I genuinely care about. I really cared about my sections and sectionees. I wanted to do well. But I was and I am too inexperienced to have the title of a Section Leader.
+
+If I wasn't full of self-doubt, I would have been able to make slides on my own (as some other Section Leaders did), conduct polls and collect students' feedback on Google Forms (other than the feedback they submit on ohyay), and hold more office hours. I've helped one student with their first assignment, and that was the only help I gave. I don't know. Teaching is much much harder than I thought. I don't even know how teachers, instructors, and professors teach people in the virtual setting, which I think makes things more challenging.
 
 # Conclusion
 
+[To be continued]

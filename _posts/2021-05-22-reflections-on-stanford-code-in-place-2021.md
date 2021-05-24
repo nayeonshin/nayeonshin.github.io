@@ -10,7 +10,7 @@ tags:
 
 # Summary
 
-No summary. My experience with this program is too good to be summarized with a few words, so please read this post till the end. 😉 This is probably going to be a long post. I'm going to write down as many things as possible, from how I got into the program and what I think about the program. At the end, I've included my honest thoughts and feelings about my experience. Spoiler: Being a Section Leader was really, really difficult or me.
+No summary. My experience with this program is too good to be summarized with a few words, so please read this post till the end. 😉 This is probably going to be a pretty long post. I'm going to write down as many things as possible, from how I got into the program and what I think about the program. At the end, I've included my honest thoughts and feelings about my experience. Spoiler: Being a Section Leader was really, really difficult or me.
 
 # What's Stanford Code in Place?
 
@@ -309,7 +309,7 @@ Then we said goodbye. It was a good experience.
 
 ## T-shirt contest
 
-I also submitted something to the T-shirt contest, which couldn't even make it to the top 10. 🤪 But it was fun, which is all that matters in Code in Place.
+I also submitted something to the T-shirt contest, which couldn't even make it to the top 10. 🤪 But it was fun, which is all that matters in Code in Place. After all, I wasn't even serious when I decided to give it a try!
 
 ![My t-shirt design]({{ site.baseurl }}/assets/images/posts/2021-05-22-my-t-shirt-design.jpg)
 
@@ -325,6 +325,24 @@ I was scared that my section would be a waste of time for my sectionees. A lot o
 
 If I wasn't full of self-doubt, I would have been able to make slides on my own (as some other Section Leaders did), conduct polls and collect students' feedback on Google Forms (other than the feedback they submit on ohyay), and hold more office hours. I've helped one student with their first assignment, and that was the only help I gave. I don't know. Teaching is much much harder than I thought. I don't even know how teachers, instructors, and professors teach people in the virtual setting, which I think makes things more challenging.
 
+I think I kind of tried to run away, fearing and doubting everything. Honestly, I can't help but think I only did the minimum required work. I didn't even watch all the lectures and do all the assignments on my own. 😥
+
+But it's okay, although I don't know it really is. I tried (kinda). I'm not even good at English but this was my first time giving a lecture, especially in English. It would have been abnormal if I did well on my first try.
+
+# How I can improve
+
+I was going to name this part "What I could have done better," but that kind of shows my regret and sounds a little negative. So I changed it to "How I can improve (next time)." Some things I can do next when I try to tutor people are:
+
+- Make interesting slides or some visual aids. Personally, I'm not a fan of slides but in such settings, slides that can attract listeners' attention would be of great help.
+
+- More participant engagement. This is probably the hardest part. If I call out a particular student and ask them to answer a question, they can be embarrassed. Then, what should I do instead? 🤔
+
+  I just quickly read an article ["15 Actionable Strategies for Increasing Student Motivation and Engagement"](https://www.gettingsmart.com/2016/08/15-actionable-strategies-for-increasing-student-motivation-and-engagement/) and here are my thoughts.
+
+  When I made some mistakes, I think that taught students that I'm also human, and that I make mistakes. That was when they were most active in terms of participation. Building an authentic relationship will let students feel comfortable talking to the instructor and escalating issues. I also learned that personalized education is important because everybody learns in a different way.
+
 # Conclusion
 
-[To be continued]
+The three keywords I'd choose to describe my first CiP experience are: "Challenging," "fun," and "bonding." One of the greatest things about CiP is that thousands of people gather at the same program with the interest in programming and Python. I bet the course is challenging for people who haven't learned coding for sure, but it's a really rare course in that its ultimate purpose is for everyone to have fun. I also truly enjoyed Code in Place, although everything felt so new and complicated. ㅠ______ㅠ If the pandemic still lasts and CiP opens its door again in 2022, I'm sure I'll become a Section Leader again and have been much more prepared.
+
+This is not a good post but I appreciate you reading this post. Thank you! And thank you to all the Section Leaders, Instructors, and Staff in Code in Place. You're all amazing people. I look up to you all.

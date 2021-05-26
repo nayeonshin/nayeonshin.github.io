@@ -81,13 +81,13 @@ Then, go back to settings and type <code>terminal.integrated.defaultProfile.wind
 
 *Figure 6. defaultProfile line has been added*
 
-Then you type into the profile name!
+Then you type the new profile name between the quotation marks and **don't forget to save it**!
 
 ![The end]({{ site.baseurl }}/assets/images/posts/2021-05-27-the-end.png)
 
 *Figure 7. The end*
 
-Ta-da! Now I have a cool terminal on VSCode as well.
+Ta-da! Now I have a cool terminal on VSCode as well. If the new change doesn't appear, try restarting VSCode.
 
 # Conclusion
 

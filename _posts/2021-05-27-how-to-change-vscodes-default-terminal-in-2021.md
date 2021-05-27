@@ -73,7 +73,7 @@ Add a terminal profile of your choice to <code>terminal.integrated.profiles.wind
 }
 ```
 
-I added <code>"OhMyZsh"</code> at the top. The important thing here is that the name of the profile that'll be set to default shouldn't have spaces in it. For example, <code>"Oh My Zsh"</code> wouldn't work, but <code>OhMyZsh</code> would.
+I added <code>"OhMyZsh"</code> at the top. The important thing here is that the name of the profile that'll be set to default shouldn't have spaces in it. For example, <code>"Oh My Zsh"</code> wouldn't work, but <code>"OhMyZsh"</code> would.
 
 Then, go back to settings and type <code>terminal.integrated.defaultProfile.windows</code>, and open it in <code>settings.json</code>, which will lead you to this screen (the same screen but with another line at the end):
 

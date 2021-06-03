@@ -4,8 +4,8 @@ excerpt: "Stick to Block Element Modifier for semantic markup"
 categories:
   - Study
 tags:
-  - HTML/CSS
   - Front-End
+  - HTML/CSS
 ---
 
 # Prerequisites

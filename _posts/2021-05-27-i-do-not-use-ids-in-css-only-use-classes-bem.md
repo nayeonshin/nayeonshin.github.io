@@ -14,7 +14,7 @@ tags:
 
 # Motivation
 
-There are [methodologies for architecting CSS](https://valoremreply.com/post/5_css_methodologies/). You probably could have used both IDs and classes to refer to HTML tags. But actually, it's not recommended to use IDs at all. Let's find out why and what we can do instead.
+There are [methodologies for architecting CSS](https://valoremreply.com/post/5_css_methodologies/). You *can* use both IDs and classes to refer to HTML tags. But actually, it's not recommended to use IDs if you can avoid it. Let's find out why and what we can do instead.
 
 # Sample code
 
@@ -89,7 +89,7 @@ Let's say we have this code above that displays this on the screen:
 
 *Figure 1. Sample shape*
 
-Look at CSS. We have IDs and a class, and it's hard to know what's inside what just by looking at the CSS code. And doesn't it look quite messy? We have to make sure we use <code>.</code> for classes and <code>#</code> IDs, and if the code gets longer, it will take some time to tell what are IDs and what are classes at first glance.
+Look at CSS. We have IDs and a class, and it's hard to know what's inside what just by looking at the CSS code. And doesn't it look quite messy? We have to make sure we use <code>.</code> for classes and <code>#</code> IDs. This is quite troublesome.
 
 # BEM (Block Element Modifier)
 
@@ -197,6 +197,6 @@ If you want to read more about BEM, [read this](http://getbem.com/naming/).
 
 # Conclusion
 
-BEM lets us write semantic code, which is our main task as programmers.
+We use BEM (Block Element Modifier) to write semantic markup code, which is our main task as programmers.
 
 If you have questions or feedback, please feel free to leave a comment. Thanks for reading!

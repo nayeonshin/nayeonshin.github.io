@@ -61,7 +61,7 @@ https://www.youtube.com/watch?v=QH2-TGUlwu4
 
 네! 누구나 만들 수 있습니다. 디지털 형태의 어떠한 것으로든 NFT를 만들 수 있습니다. 일론 머스크는 전에 대충 부른 노래를 NFT화해서 경매를 하다가 가격이 너무 높아져서 상품을 내렸다고 합니다.
 
-일론 머스크 노래 : https://www.youtube.com/watch?v=ylUkR2i1wcw
+일론 머스크 노래 : [https://www.youtube.com/watch?v=ylUkR2i1wcw](https://www.youtube.com/watch?v=ylUkR2i1wcw)
 
 가사는 그냥 "NFT...", ''I’m selling this song about NFTs as an NFT (나는 NFT에 관한 이 노래를 NFT로 팔고 있어)'' 처럼 정말 의미 없습니다. 근데 이걸 또 큰 돈 주고 사려는 사람들이 많았다는 게 신기한 것 같습니다.
 
@@ -69,11 +69,11 @@ https://www.youtube.com/watch?v=QH2-TGUlwu4
 
 ![크립토 키티 아이콘]({{ site.baseurl }}/assets/images/posts/2021-06-07-cryptokitty.png)
 
-https://www.cryptokitties.co/
+[https://www.cryptokitties.co/](https://www.cryptokitties.co/)
 
 이더리움 상에 있는 블록체인 게임입니다. 여기서 키티(고양이) 한 마리 한 마리가 다 NFT입니다.
 
-![크립토 키티]({{ site.baseurl }}/assets/images/2021-06-07-cryptokitties.png)
+![크립토 키티]({{ site.baseurl }}/assets/images/posts/2021-06-07-cryptokitties.png)
 
 서로 엇비슷해보이면서도 자세히 들여다보면 각각의 특징들이 있습니다. 눈, 색깔, 꼬리부터 여러 악세사리까지 다 다릅니다. 본인의 키티에게 이러한 것들을 사줄 수 있는데, 그렇게 치장한 키티를 또 거래할 수 있습니다. 여기서 흥미로운 점은 키티가 소유하고 있는 악세사리의 소유권은 그 "키티"에게 있다는 점입니다. 즉, 제가 제 키티가 있다고 치고 키티에게 모자를 하나 사 주면, 그 모자는 키티 소유가 되는 것이죠.
 

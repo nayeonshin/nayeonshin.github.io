@@ -47,7 +47,7 @@ Non-fungible token의 약자로서 한국어로는 "대체 불가능한 토큰"�
 
 잠시 유튜브에서 영상을 보고 옵시다!
 
-https://www.youtube.com/watch?v=QH2-TGUlwu4
+[https://www.youtube.com/watch?v=QH2-TGUlwu4](https://www.youtube.com/watch?v=QH2-TGUlwu4)
 
 특별한 의미 없어 보이는 것 같지만 이 NFT 작품의 원작자는 약 7억원(!)에 작품을 팔게 되었다고 합니다.
 

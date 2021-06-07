@@ -27,16 +27,6 @@ As someone who speaks Korean, I have seen a few resumes in Korean. What I though
 
 ### Contents
 
-#### Everything should be in a chronological order.
-
-What does this mean? For example, let's say you worked at a Company ABC and then a Company DEF and then a Company GHI. Then, you write:
-
-- Company GHI
-- Company DEF
-- Company ABC
-
-In short, the higher it is placed, the more recent it should be.
-
 #### "Resume English"
 
 *Disclaimer: This "Resume English" part wasn't written by me. It's from [What is "resume English," and why should I use it?](https://techwritingtodai.blogspot.com/2014/08/what-is-resume-english-and-why-should-i.html**)*
@@ -220,6 +210,16 @@ Some little tips here:
 - Write numbers explicitly. For instance, write 30 instead of "thirty."
 - The tilda symbol "~" means "about" or "approximately." You use it like this: ~30.
 - Utilize other symbols like > or + (more than) and < (less than).
+
+#### Everything should be in a chronological order.
+
+What does this mean? For example, let's say you worked at a Company ABC and then a Company DEF and then a Company GHI. Then, you write:
+
+- Company GHI
+- Company DEF
+- Company ABC
+
+In short, the higher it is placed, the more recent it should be.
 
 ### Decoration?
 

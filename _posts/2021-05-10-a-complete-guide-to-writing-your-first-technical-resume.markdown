@@ -37,6 +37,39 @@ What does this mean? For example, let's say you worked at a Company ABC and then
 
 In short, the higher it is placed, the more recent it should be.
 
+#### "Resume English"
+
+*Disclaimer: This "Resume English" part wasn't written by me. It's from [What is "resume English," and why should I use it?](https://techwritingtodai.blogspot.com/2014/08/what-is-resume-english-and-why-should-i.html**)*
+
+To save space for quantitative data (#, $, %) and qualitative details (first, youngest, only, best), I encourage you to use "résumé English." What is "résumé English" and how do I use it?
+
+1. Remove articles 'a', 'an', and 'the'
+2. Delete all subjects 'I' and personal pronouns (we, they, etc.)
+3. Cut helping verbs ('is,' 'was,' 'were')
+4. Use verb tenses in the past, except for your present job. Example: Conducted routine inspections of on-site equipment
+5. Remove periods (.) from the ends of each achievement since you are not writing proper English sentences
+6. Remember to use [power verbs](https://techwritingtodai.blogspot.com/2011/03/verbs.html)
+
+**Numbers**
+
+- Change all number words (five) to numerals (5)
+- In essays, write numbers as words if below 10 (except $ or %)
+- In resumes and application data forms, however, you can ignore this "rule" in order to save space that is better used for impressive details that show quantifiable results ($, %) and qualitative impact (first, youngest, only, best)
+
+**Monetary abbrevations**
+
+How to use abbreviated numbers in resumes for international MBA programs and companies
+
+PREFERRED BY INSEAD (and understood/acceptable at any top MBA program)
+(from the CV self-review style guide INSEAD gives to incoming students)
+
+Suggested numerical abbreviations:
+
+- k for 1,000 (thousands)
+- mn for 1,000,000 (millions)
+- bn for 1,000,000,000 (billions)
+- tn for 1,000,000,000,000 (trillions)
+
 #### Font & Margin
 
 The standard font is 12 point Times New Roman. I think you *can* use other fonts if you don't like Times New Roman, but make sure you use an [*ATS-friendly* one](https://www.jobscan.co/blog/best-fonts-resume-ats-recruiter/). If you're running out of space, you can reduce it until 11 point. However, no smaller than that. 10 point is too small and quite hard to read. My current resume's overall font size is 12 point and only my name is in 24 point. Plus, keep the margin at a 0.5 inch on every side.
@@ -67,15 +100,13 @@ For your contact info, include:
 
 Again, the order can be changed depending on your preference. But this is what I prefer most.
 
-Before diving into specific details of the resume structures, I'd like to point out one important thing: **Do not use the first or second person.** Refrain from using "I," "my," "you," "we," "our," etc. Stick to using articles such as "the."
-
 **Education**
 
 Let's move onto the education section. If you don't have college education, you don't need this part. But if you do, you need it. Make sure you only have your college in the education part. It is recommended to only have post-secondary education information on a resume.
 
 **Wait a sec... Should I write my GPA? It's not even good. :(**
 
-Unfortunately, yes. It's recommended. If you're a CS student, you probably know that GPAs are not the only important thing. As long as your GPA is 3.5+ (out of 4.0), you shouldn't have trouble getting a job just because of some reasons related to your grades. In my opinion, having a 4.0 GPA is very impressive (for sure), but it's not very different from a 3.5 GPA. GPA just shows you can do the minimum required work.
+Unfortunately, yes. It's recommended. If you're a CS student, you probably know that GPAs are not the only important thing. As long as your GPA is 3.5+ (out of 4.0), you shouldn't have trouble getting a job just because of your GPA. In my opinion, having a 4.0 GPA is very impressive (for sure), but it's not very different from a 3.5 GPA. GPA just shows you can do the minimum required work.
 
 But do you really need to show your GPA even if it's bad? YES. Some people recommend not including a GPA on the resume if it's below 3.5. I used to think so, and I have seen some folks doing that. But after I have talked to a senior software engineer at a big tech company, I learned this: Hiding your GPA can be thought you are not being *honest*. If you have a good GPA, proudly show it off. If you don't, still write it but make sure you have some back-ups, such as some good side projects. The Senior SWE told me that they would choose someone with a 3.0 who has voluntarily taken a lot of difficult courses over one with a perfect GPA who only took easy courses.
 
@@ -190,7 +221,13 @@ Some little tips here:
 - The tilda symbol "~" means "about" or "approximately." You use it like this: ~30.
 - Utilize other symbols like > or + (more than) and < (less than).
 
-## Other tips that are good to know
+### Decoration?
+
+It's not recommended to decorate your resume. I'm not sure if that'll still be the case if you're like a designer or something, but generally, do not decorate your resume. Do not use more than 2 text colors.
+
+If you think your resume looks boring, you can color the section titles (EDUCATION, EXPERIENCE, PROJECTS, etc) with your school's official color. That's what I also did on my resume.
+
+### Other tips that are good to know
 
 1. If you are to list out your skills, please, please do NOT write "GitHub." GitHub is not a skill. Git, maybe. But even Git is not a skill that's essential for a project. In other words, if you want to write that you know how to use "Git," only write "Git," not "GitHub."
 2. HTML and CSS are not programming languages. If you want to enumerate what languages you're familiar with, do not classify HTML and CSS as programming languages. Just write something like, "Languages: HTML/CSS/JavaScript, Java, ..."

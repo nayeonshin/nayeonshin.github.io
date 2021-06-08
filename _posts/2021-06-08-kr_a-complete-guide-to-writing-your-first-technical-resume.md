@@ -15,6 +15,8 @@ Resume (이력서)는 CV의 요약본이라 보면 됩니다. 보통 CV는 본�
 
 ## 2. Resume 작성 방법
 
+![Resume format](C:\Users\nayeonshin\Desktop\nayeonshin.github.io\_posts\{{ site.baseurl }}\assets\images\posts\2021-05-10-resume-format.jpg)
+
 ### 2.1. 레주메는 무조건 1쪽이어야 합니다.
 
 1쪽을 넘어가면 안 됩니다. 아무리 경력이 많은 사람이라 하더라도 본인 경험의 요점을 한 쪽에 요약할 수 있는 능력이 있어야 합니다. 보통 큰 회사들은 1차 지원자들의 이력서를 바로 사람들이 직접 보는 것이 아니라 모종의 소프트웨어 (ATS: Application Tracking System)를 돌려서 합격자를 추린다고 합니다. (이것은 회사마다 다를 수 있으며 자세한 내용은 정확히 모릅니다.)  그렇기에 1쪽을 넘기면 절대! 안 됩니다.

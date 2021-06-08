@@ -234,6 +234,7 @@ If you think your resume looks boring, you can color the section titles (EDUCATI
 3. Save your resume in a *pdf* format, and it should be named LastName_FirstName_Resume. (without the period at the end)
 4. I prefer Google Docs to some other document editing software because you can make a link to your resume on Google Docs.
 5. Include some links! Maybe on the contact info, you can insert a hyperlink to your LinkedIn profile.
+6. I personally don't recommend two-column resumes. Apparently, a recruiter usually spends 15 seconds to read one resume. I'd like them to read my resume from top to bottom at once, instead of distracting their attention with a two-column resume. This is up to you.
 
 ## Conclusion
 

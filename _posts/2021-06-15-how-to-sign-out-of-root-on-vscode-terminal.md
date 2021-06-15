@@ -5,6 +5,7 @@ categories:
   - Study
 tags:
   - IDE
+toc: false
 ---
 
 Okay lol this is going to be the shortest and most simple post ever.

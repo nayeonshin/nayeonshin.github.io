@@ -84,7 +84,7 @@ After the workshop, I managed to fix the code. I also edited the code on [Colab]
 
 Here's the code with the bug fixed!:
 
-```
+```python
 def heapify(self, i):
         """Restore max heap property starting at position i and working down 
         recursively"""
@@ -104,7 +104,7 @@ def heapify(self, i):
 
 The problem was with the comparison in <code>self.heap[left_index] > self.heap[max_index]</code> and <code>self.heap[right_index] > self.heap[max_index]</code>. I think what I initially wrote was something like
 
-```
+```python
 if left_index < len(self.heap) and self.heap[left_index] > self.heap[i]:
           max_index = left_index
         if right_index < len(self.heap) and self.heap[right_index] > self.heap[i]:

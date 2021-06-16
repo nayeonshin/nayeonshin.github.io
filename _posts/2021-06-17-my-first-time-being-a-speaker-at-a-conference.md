@@ -86,29 +86,28 @@ Here's the code with the bug fixed!:
 
 ```python
 def heapify(self, i):
-        """Restore max heap property starting at position i and working down 
-        recursively"""
-        left_index = (2 * i) + 1
-        right_index = (2 * i) + 2
-        max_index = i # Temporary initialization
+    """Restore max heap property starting at position i and working down 
+    recursively"""
+    left_index = (2 * i) + 1
+    right_index = (2 * i) + 2
+    max_index = i # Temporary initialization
 
-        if left_index < len(self.heap) and self.heap[left_index] > self.heap[max_index]:
-          max_index = left_index
-        if right_index < len(self.heap) and self.heap[right_index] > self.heap[max_index]:
-          max_index = right_index
+    if left_index < len(self.heap) and self.heap[left_index] > self.heap[max_index]:
+        max_index = left_index
+    if right_index < len(self.heap) and self.heap[right_index] > self.heap[max_index]:
+        max_index = right_index
 
-        if max_index is not i: # If i is not the max, heapify
-          self.swap(max_index, i)
-          self.heapify(max_index)
+    if max_index is not i: # If i is not the max, heapify
+        self.heapify(max_index)
 ```
 
 The problem was with the comparison in <code>self.heap[left_index] > self.heap[max_index]</code> and <code>self.heap[right_index] > self.heap[max_index]</code>. I think what I initially wrote was something like
 
 ```python
 if left_index < len(self.heap) and self.heap[left_index] > self.heap[i]:
-          max_index = left_index
-        if right_index < len(self.heap) and self.heap[right_index] > self.heap[i]:
-          max_index = right_index
+    max_index = left_index
+if right_index < len(self.heap) and self.heap[right_index] > self.heap[i]:
+    max_index = right_index
 ```
 
 Notice that I'm comparing <code>self.heap[i]</code> instead of <code>self.heap[max_index]</code>. The reason we need to use the latter is that we're updating <code>max_index</code> to the largest item. And to do so, <code>self.heap[max_index]</code> should be used.

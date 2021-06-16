@@ -10,7 +10,7 @@ tags:
 
 ## So... I spoke at a conference
 
-Jeez... It still doesn't feel real. [I just attended a conference for the first time about a month ago]({{ site.baseurl }}writing/my-first-pycon/), but now I'm someone who has spoken at a conference.
+Jeez... It still doesn't feel real. [I just attended a conference for the first time about a month ago]({{ site.baseurl }}writing/my-first-pycon/), but now I'm someone who has spoken at a conference. Yes, I led a workshop at WWCode CONNECT REIMAGINE 2021 last Friday (Friday, June 11, 2021)!
 
 How it all happened:
 

@@ -122,7 +122,7 @@ I just want to say thank you to everyone who made this workshop possible. Thank 
 
 Live coding turned out to be much much much harder than I thought. But it was great experience. Also, because of how an online workshop is, it felt really weird, awkward, and scared when I was sharing my screen and speaking. It was because I was worried if the attendees couldn't see my screen because of some error. Also because honestly, I felt like I was alone in the workshop somehow since there was no interactivity with the attendees other than the chat.
 
-I'm really feeling the importance of writing a reflection post as soon as an incident happened. The memories are fading away, just like how a queue (FIFO) data structure works.
+I'm really feeling the importance of writing a reflection post right after an incident happens. The memories are fading away, just like how a queue (FIFO) data structure works.
 
 Thank you very much for reading, and I'll be back with other posts about Python Regex (I'll really write about this this time) and possibly my internships!
 

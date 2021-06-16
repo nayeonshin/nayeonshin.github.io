@@ -4,7 +4,7 @@ permalink: /
 author_profile: true
 ---
 
-![Nayeon's Self-Introduction]({{ site.baseurl }}\assets\images\nayeon-intro.png)
+![Nayeon's Self-Introduction]({{ site.baseurl }}\assets\images\site\nayeon-intro.png)
 
 # Hello, World!
 

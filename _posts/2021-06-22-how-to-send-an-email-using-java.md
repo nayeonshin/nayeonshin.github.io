@@ -69,7 +69,7 @@ public class SendGmail {
 			Session msgSession = null;
 
 			if (authMode.equals("true")) {
-		        Authenticator auth = new MyAuthentication(mailId, mailPassword);
+		        Authenticator auth = new AuthenticateEmail(mailId, mailPassword);
 				msgSession = Session.getInstance(mailProps, auth);
 			} else {
 				msgSession = Session.getInstance(mailProps, null); 
@@ -94,15 +94,15 @@ public class SendGmail {
 				System.out.println("Email successfully sent");
 				t.close();
 			}
-		} catch(Exception e) {
+		} catch (Exception e) {
 			e.printStackTrace();
 		}
 	}
 }
 
-class MyAuthentication extends Authenticator {
+class AuthenticateEmail extends Authenticator {
     PasswordAuthentication pa;
-    public MyAuthentication(String mailId, String mailPass) {
+    public AuthenticateEmail(String mailId, String mailPass) {
         pa = new PasswordAuthentication(mailId, mailPass); // Enters ID and password
     }
     // Authentication info used in the system
@@ -113,6 +113,10 @@ class MyAuthentication extends Authenticator {
 ```
 
 I added comments so it should be self-explanatory.
+
+![Result]({{ site.baseurl }}/assets/images/posts/2021-06-22-result.png)
+
+Here's the result. I felt happy after finally seeing the email in my inbox.
 
 ## What is smtp?
 

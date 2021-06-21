@@ -69,7 +69,7 @@ public class SendGmail {
 			Session msgSession = null;
 
 			if (authMode.equals("true")) {
-		        Authenticator auth = new AuthenticateEmail(mailId, mailPassword);
+		        Authenticator auth = new AuthenticateGmail(mailId, mailPassword);
 				msgSession = Session.getInstance(mailProps, auth);
 			} else {
 				msgSession = Session.getInstance(mailProps, null); 
@@ -100,9 +100,9 @@ public class SendGmail {
 	}
 }
 
-class AuthenticateEmail extends Authenticator {
+class AuthenticateGmail extends Authenticator {
     PasswordAuthentication pa;
-    public AuthenticateEmail(String mailId, String mailPass) {
+    public AuthenticateGmail(String mailId, String mailPass) {
         pa = new PasswordAuthentication(mailId, mailPass); // Enters ID and password
     }
     // Authentication info used in the system

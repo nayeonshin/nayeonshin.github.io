@@ -1,5 +1,5 @@
 ---
-title:  "How to Send an Email using Java"
+title:  "How to Send an Email Using Java"
 excerpt: "Even sending an email was hard... for me"
 categories:
   - Study

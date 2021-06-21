@@ -1,5 +1,5 @@
 ---
-title:  "Art & Technology"
+title:  "New Media Art"
 excerpt: "I want to do this!"
 categories:
   - Blog
@@ -9,11 +9,11 @@ tags:
 
 For the past few months, I've had a confusing time not even knowing what I want to do vaguely. CS is such a broad field; there are endless things where Computer Science is applied. Then, what should I do?
 
-**I just decided to make a special major called "Art & Technology" and double-major in it. 🥳**
+**I just decided to make a special major called "New Media Art" and double-major in it. 🥳**
 
-So I'll be a Computer Science and Art & Technology double major! I've wanted to double major in a different field instead of choosing a track in CS, which is a thing that exists at other (big) schools.
+So I'll be a Computer Science and New Media Art double major! I've wanted to double major in a different field instead of choosing a track in CS, which is a thing that exists at other (big) schools.
 
-Here's why I think I'll do Art + Tech:
+Here's why I think I'll do CS + New Media Art:
 
 I've always been interested in issues about tech and accessibility, such as digital divide across generations and digital literacy. Without the improvement of accessibility, the advancement of technology is useless in my opinion.
 

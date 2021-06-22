@@ -91,7 +91,6 @@ public class SendGmail {
 				t.connect();
 				t.sendMessage(msg, msg.getAllRecipients()); // Sends email
 			} finally {
-				System.out.println("Email successfully sent");
 				t.close();
 			}
 		} catch (Exception e) {

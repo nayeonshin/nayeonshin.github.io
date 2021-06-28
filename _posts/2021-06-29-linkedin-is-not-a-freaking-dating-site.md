@@ -5,9 +5,10 @@ categories:
   - Blog
 tags:
   - Career
+toc: false
 ---
 
-**Trigger warning: verbal harassment, online harassment, a few censored bad words**
+**Trigger warning: verbal/online harassment, a few censored bad words**
 
 At the end of April 2021, I experienced a disgusting and terrifying incident that I will never ever be able to forget for the rest of my life. A man around my father's age who found me through a TA program sent me a super long, disturbing message that he was "in love with" me. (I really hope using the past tense verb, "was," is correct and it's not an ongoing thing.) He approached me on LinkedIn saying he'd like to connect as he and I (I didn't even want to say "we") were in the same program. And I connected without thinking much. Since then, he started messaging me every single day. (If you're the man and you're reading this, GTFO. Like seriously, I kindly ask you to f**k off.) I never cuss (especially publicly) but this time, I can't stand. I'm going to censor bad words though by using abbreviations and replacing vowels, though.
 

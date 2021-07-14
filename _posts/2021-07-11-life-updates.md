@@ -3,6 +3,7 @@ title:  "Life Updates"
 excerpt: "I'm still alive."
 categories:
   - Blog
+toc: false
 ---
 
 I haven't posted for a while. I thought I should post something (especially anything technical I learned that day) the other day, but it's really hard to keep doing so. I'm not very disciplined........

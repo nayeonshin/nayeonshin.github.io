@@ -15,6 +15,8 @@ I'm a Git noob but I use it extensively. The version control lets me keep track 
 
 And every time I pushed to the `master` branch, it always made a new separate branch. And I didn't get it. Why the heck would it create another branch from the default branch?
 
+## Solution
+
 Then, I realized this:
 
 ![Main branch]({{ site.baseurl }}/assets/images/posts/2021-07-18-main-branch.png)
